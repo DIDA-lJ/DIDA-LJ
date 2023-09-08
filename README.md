@@ -27,6 +27,18 @@
     <span>
       <img src="https://camo.githubusercontent.com/ff6f52ffdfce44372e3be3eda37d354ce2a15874e9b15996c2263172683f7bcd/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d7973716c2f6d7973716c2d69636f6e2e737667" alt="mysql" width="45" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" style="width: 50px;">
     </span>
+    <span>
+      <img src="https://camo.githubusercontent.com/1b938a8770774c11ebdf27c1c371d173a48c6f0504cc224a8a6b47d5a8a332ac/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6e676f64622f6d6f6e676f64622d69636f6e2e737667" alt="mongodb" width="45" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" style="width: 50px;">
+    </span>
+    <span>
+      <img src="https://camo.githubusercontent.com/5c52044e01222cc66415f3acf1b54cfb936e9bdd3076eb844884568c64b414ca/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646f636b65722f646f636b65722d6f6666696369616c2e737667" alt="docker" width="60" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" style="width: 50px;">
+    </span>
+    <span>
+      <img src="https://camo.githubusercontent.com/d4cbacdc000de378e0dcae3b5ee54923c0ad04f6e52b7aa886a748fba5578def/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f656c61737469632f656c61737469632d69636f6e2e737667" alt="eastic" width="55" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" style="width: 50px;">
+    </span>
+    <span>
+      <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="GIT" width="55" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="width: 50px;">
+    </span>
   </ul>
 </div>
 <!--
