@@ -45,10 +45,15 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Mario_Gameplay.gif" alt="Mario Game" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
 
+
+
+
 ### <h2><img src="https://camo.githubusercontent.com/18a2fa2ff29bbb86a86819ec50536c3c38bc9fc0ca6b3d17ef48eaf50ea34983/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e6769663f6369643d65636630356534377832673033346939707a77747a7a7364337867673277396e723934743474666c6262676f33303038267269643d67697068792e676966" data-canonical-src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&amp;rid=giphy.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage"> My Github status(我的 Github 状态)</h2>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIDA-LJ&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DIDA-LJ)](https://git.io/streak-stats)
+
+
 
 
 ### <h2><img align="center" src="https://camo.githubusercontent.com/b6d35fb48e8172f046a782ed357a0d5180b4751809f8e221d934b478072abe42/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f55514453427a667969424b766746635354772f67697068792e6769663f6369643d656366303565343770336364353133617862656b336635367469336a7a697a713868696e637732306a61757979667977267269643d67697068792e676966" data-canonical-src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&amp;rid=giphy.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage">Here's some humor for you:</h2>
