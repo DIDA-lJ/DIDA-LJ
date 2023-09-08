@@ -46,6 +46,6 @@
 </div>
 
 ### <h2>今年汇总 ✨</h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIDA-LJ&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIDA-LJ&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DIDA-LJ)](https://git.io/streak-stats)
 
