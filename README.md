@@ -1,5 +1,5 @@
 ### 我是柒夭👋
-<hr/>
+<br/>
 
 <!--
 **DIDA-lJ/DIDA-LJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
