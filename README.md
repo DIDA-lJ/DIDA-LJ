@@ -46,4 +46,4 @@
 </div>
 
 ### <h2>今年汇总 ✨</h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api？username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api？username=DIDA-lJ&show_icons=true&theme=radical)
