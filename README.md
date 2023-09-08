@@ -4,7 +4,7 @@
   <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="" style="max-width: 100%;">
 </div>
 
-### <h2> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" style="width: 40px; display: inline-block;" data-target="animated-image.originalImage"> About me</h2>
+### <h2> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" style="width: 45px; display: inline-block;" data-target="animated-image.originalImage"> About me</h2>
 <div>
   <ul>
     <li>🏦我是中国的一个 Java 后端的菜鸟程序员，还请各位大佬多多指教！<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="width: 25px; display: inline-block;" data-target="animated-image.originalImage"> </li>
@@ -45,8 +45,10 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Mario_Gameplay.gif" alt="Mario Game" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
 
-### <h2>今年汇总 ✨</h2>
+### <h2><img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/PC.gif" style="width: 40px; display: inline-block;" data-target="animated-image.originalImage">今年汇总</h2>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIDA-LJ&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DIDA-LJ)](https://git.io/streak-stats)
+
+### <h2> 项目使用语言</h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
