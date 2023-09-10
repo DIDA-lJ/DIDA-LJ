@@ -1,4 +1,4 @@
-### <h1 style="align:center">我是柒夭 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Mario_Hello_Big.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage"></h1>
+### <h1 align=center>Hi,I am QiYao(柒夭) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Mario_Hello_Big.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage"></h1>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="width:25px; display: inline-block;" data-target="animated-image.originalImage"> Hello World  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" style="width: 25px; display: inline-block;" data-target="animated-image.originalImage">
 
   <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="" style="max-width: 100%;">
@@ -40,6 +40,13 @@
     <span>
       <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="GIT" width="55" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="width: 50px;">
     </span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="Tomcat" width="40" height="40" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="max-width: 100%;">
+    
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
+    
   </ul>
 </div>
 <div>
