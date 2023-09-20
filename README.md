@@ -55,7 +55,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIDA-LJ&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DIDA-LJ)](https://git.io/streak-stats)
-<span><img src="https://stats.justsong.cn/api/leetcode?username=DIDA-LJ&cn=true" width="37%"></span>
+![](https://leetcard.jacoblin.cool/wAyFMpGOBE?site=cn&theme=unicorn)
 <hr/>
 
 <hr/>
