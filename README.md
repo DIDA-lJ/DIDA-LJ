@@ -3,8 +3,6 @@
 
 <hr/>   
  
-### <h2 align="center">🏆 Profile Trophy</h2>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### <h2 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" style="width: 45px; display: inline-block;" data-target="animated-image.originalImage"> About me</h2>
 <div>
