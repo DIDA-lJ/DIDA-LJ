@@ -11,7 +11,7 @@
     <li>📝 我个人比较喜欢分享，所以经常使用<a href="https://juejin.cn/user/128017175944557">稀土掘金</a>、<a href="https://www.yuque.com/zeovo-10k9s">语雀</a>等平台分享一些自己学习过程中的收获,如果你感兴趣的话，可以关注一下。</li>
     <li>💻 我是一名后端程序员，主要技术栈为<b>Java、Python(机器学习)、SQL以及前端三件套(HTML、CSS、JavaScript)。</b></li>
     <li>😺 短视频平台:平时主要使用 <a href="https://space.bilibili.com/486524838?spm_id_from=333.1007.0.0">B站</a>多一点，偶尔也刷刷抖音</li>
-    <li>💬 主要项目：用户中心 | Yao-Java_GOF | qinyao-qinyaorpc(轻夭 RPC 框架) | Yaoyu-frame(夭语框架,开发ing.....) | 夭语星球（yaoyu-planet）</li>
+    <li>💬 主要项目： Yao-Java_GOF | qinyao-qinyaorpc(轻夭 RPC 框架) | Yaoyu-frame(夭语框架,开发ing.....) | 夭语星球（yaoyu-planet）</li>
     <li>👯 兴趣爱好：本人比较喜欢数学以及睡觉，平时偶尔会打打数学建模，所以如果你对于数学建模感兴趣的话，咋们也可以聊一聊。</li>
     <li>⚡ Fun fact: Je connais un peu le français</li>
     <li>🧑‍💻 常用开发工具：</li>
