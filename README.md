@@ -2,7 +2,7 @@
   <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="" style="max-width: 100%;align: center;"> 
 
 <hr/>   
-### <h2 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" style="width: 45px; display: inline-block;" data-target="animated-image.originalImage"> About me</h2>
+<h2 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" style="width: 45px; display: inline-block;" data-target="animated-image.originalImage"> About me</h2>
 <div> 
   <ul>
     <li>🏦我是中国的一个 Java 后端的菜鸟程序员，还请各位大佬多多指教！<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="width: 25px; display: inline-block;" data-target="animated-image.originalImage"> </li>
