@@ -54,10 +54,4 @@
 <span>[![GitHub Streak](https://streak-stats.demolab.com/?user=DIDA-LJ)](https://git.io/streak-stats)</span>
 <span>![](https://leetcard.jacoblin.cool/qiyao-answer_all?site=cn&theme=unicorn)</span>
 
-<hr/>
-
-<hr/>
-
-### <h2 align="center"><img align="center" src="https://camo.githubusercontent.com/b6d35fb48e8172f046a782ed357a0d5180b4751809f8e221d934b478072abe42/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f55514453427a667969424b766746635354772f67697068792e6769663f6369643d656366303565343770336364353133617862656b336635367469336a7a697a713868696e637732306a61757979667977267269643d67697068792e676966" data-canonical-src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&amp;rid=giphy.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage">Here's some humor for you:</h2>
-![image](https://github.com/DIDA-lJ/DIDA-LJ/assets/97254796/d24c5053-657a-4b46-b2bb-90b6006878c0)
 
