@@ -1,4 +1,4 @@
-### <h1 align="center">Hi,I am QiYao(柒夭) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Mario_Hello_Big.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage"></h1>
+### <h1 align="center">Hi,I am LinQi(林柒) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Mario_Hello_Big.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage"></h1>
 
 
 <div align="center">
