@@ -13,9 +13,6 @@
 <p><b>The answer explains all, hard work is the best answer.</b></p>
 </div>
 
-### <h2 align="center" >GitHub Profile Trophy</h2>
-
-[![Lorin-github](https://github-profile-trophy.vercel.app/?username=DIDA-LJ)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr/>   
 <h2 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" style="width: 45px; display: inline-block;" data-target="animated-image.originalImage"> About me</h2>
