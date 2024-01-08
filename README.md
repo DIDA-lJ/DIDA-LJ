@@ -34,7 +34,7 @@
 </div>
 <hr/>
 
-### <h2 align="center"><img src="https://camo.githubusercontent.com/18a2fa2ff29bbb86a86819ec50536c3c38bc9fc0ca6b3d17ef48eaf50ea34983/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e6769663f6369643d65636630356534377832673033346939707a77747a7a7364337867673277396e723934743474666c6262676f33303038267269643d67697068792e676966" data-canonical-src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&amp;rid=giphy.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage"> My Github status(我的 Github 状态)</h2>
+### <h2 align="center">My Github status(我的 Github 状态)</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DIDA-LJ&count_private=true&show_icons=true&hide_border=true"  width="54%" />
