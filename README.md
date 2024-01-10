@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
@@ -8,7 +5,8 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22答案说明所有%22);LinQi 林柒&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
-  
+
+<br/>
  
 <p><b>The answer explains all, hard work is the best answer.</b></p>
 </div>
@@ -23,16 +21,16 @@
     <li>💬 主要项目： shortlink(Saas短链接系统) | qiyao-12306(12306) | Yaoyu-frame(夭语框架,开发ing.....) | 夭语星球（yaoyu-planet）</a></li>
     <li>👯 兴趣爱好：本人比较喜欢数学以及睡觉，平时偶尔会打打数学建模，所以如果你对于数学建模感兴趣的话，咋们也可以聊一聊。</li>
     <li>✨<a href="https://github.com/DIDA-lJ">然后求各位大佬有时间的话可以点一下星星，感谢感谢！！！ <br>  </li>
-    <li>⚡ Fun fact: Je connais un peu le français</li>
-    
   </ul>
 </div>
 <div>
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Mario_Gameplay.gif" alt="Mario Game" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
-<hr/>
 
-### <h2 align="center">My Github status(我的 Github 状态)</h2>
+<br/>
+
+
+### <h2 >📈 Github Statistics</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DIDA-LJ&count_private=true&show_icons=true&hide_border=true"  width="60%" />
