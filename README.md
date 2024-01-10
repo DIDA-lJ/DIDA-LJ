@@ -37,12 +37,12 @@
 ### <h2 align="center">My Github status(我的 Github 状态)</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DIDA-LJ&count_private=true&show_icons=true&hide_border=true"  width="54%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DIDA-LJ&count_private=true&show_icons=true&hide_border=true"  width="60%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIDA-LJ&langs_count=10&exclude_repo=timerring.github.io&count_private=true&layout=compact&hide_border=true" width="36%" />
 </div>
 
 <div align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=DIDA-LJ" width="52%">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=DIDA-LJ" width="50%">
 	<img src="https://stats.justsong.cn/api/leetcode?username=qiyao-answer_all&cn=true&theme=light" width="37%" align="right">
 </div>
 
