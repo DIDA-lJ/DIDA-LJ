@@ -19,7 +19,7 @@
     <li>💻 本人是一名后端程序员，主要技术栈为<b>Java、Python(机器学习)、SQL以及前端三件套(HTML、CSS、JavaScript)。</b></li>
     <li>😺 短视频平台:平时主要使用 <a href="https://space.bilibili.com/486524838?spm_id_from=333.1007.0.0">B站 </a>多一点，偶尔也刷刷抖音</li>
     <li>💬 主要项目： shortlink(Saas短链接系统) | qiyao-12306(12306) | Yaoyu-frame(夭语框架,开发ing.....) | 夭语星球（yaoyu-planet）</a></li>
-    <li>👯 兴趣爱好：本人比较喜欢数学以及睡觉，平时偶尔会打打数学建模，所以如果你对于数学建模感兴趣的话，咋们也可以聊一聊。</li>
+    <li>👯 兴趣爱好：本人比较喜欢数学，如果你对于数学感兴趣的话，可以相互了解一下。</li>
     <li>✨<a href="https://github.com/DIDA-lJ">然后求各位大佬有时间的话可以点一下星星，感谢感谢！！！ <br>  </li>
   </ul>
 </div>
