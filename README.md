@@ -23,9 +23,6 @@
     <li>✨<a href="https://github.com/DIDA-lJ">然后求各位大佬有时间的话可以点一下星星，感谢感谢！！！ <br>  </li>
   </ul>
 </div>
-<div>
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Mario_Gameplay.gif" alt="Mario Game" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-</div>
 
 <br/>
 
