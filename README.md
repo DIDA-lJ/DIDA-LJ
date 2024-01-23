@@ -1,4 +1,4 @@
-# Hello，here is Linqi 🎉
+# Here is LinQi 🎉
 
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
