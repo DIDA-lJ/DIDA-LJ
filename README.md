@@ -1,4 +1,4 @@
-# Here is LinQi 🎉
+## 👋 Hi there, I'm LinQi. <sup>(or ByWu)</sup>
 
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
