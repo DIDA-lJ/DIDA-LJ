@@ -8,8 +8,6 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22答案说明所有%22);LinQi 林柒&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
-
-
 <br/>
 
   
