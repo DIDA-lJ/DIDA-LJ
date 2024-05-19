@@ -29,7 +29,7 @@
 </div>
 
 <br/>
-### <h2 >📈 Github Statistics</h2>
+<h2 >📈 Github Statistics</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DIDA-LJ&count_private=true&show_icons=true&hide_border=true"  width="60%" />
