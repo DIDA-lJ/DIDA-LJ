@@ -19,7 +19,7 @@
   <ul>
     <li>🏦我是一名来自中国的后端攻城狮，主语言是 Java，副语言是 Go，还请各位大佬多多指教！</li>
     <li>📝 我个人比较喜欢分享，所以经常使用<a href="https://juejin.cn/user/128017175944557">稀土掘金</a>、<a href="https://www.yuque.com/zeovo-10k9s">语雀</a>等平台分享一些自己学习过程中的收获,如果你感兴趣的话，可以关注一下。</li>
-    <li>💻 本人是一名后端程序员，主要技术栈为<b>Java、Python(机器学习)、SQL以及前端三件套(HTML、CSS、JavaScript)。</b></li>
+    <li>💻 本人是一名后端程序员，主要技术栈为<b>Java、Go、Python(机器学习)、SQL以及前端三件套(HTML、CSS、JavaScript)。</b></li>
     <li>💬 主要项目：Apache ShardingSphere(Apache 开源分库分表组件) | qiyao-12306(12306) |  布鲁斯网关（BlossomGateway）</li>
     <li>👯 兴趣爱好：本人比较喜欢数学，如果你对于数学感兴趣的话，可以相互了解一下。</li>
   </ul>
