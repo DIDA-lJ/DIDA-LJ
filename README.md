@@ -25,7 +25,6 @@
   </ul>
 </div>
 
-<br/>
 <h2 >📈 Github Statistics</h2>
 
 <div align="center">
